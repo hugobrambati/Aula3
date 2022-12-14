@@ -11,7 +11,7 @@ No python não existe switch
 """
 
 
-match(mes):
+match mes:
     case 1:
         print("Janeiro")
     case 2:
